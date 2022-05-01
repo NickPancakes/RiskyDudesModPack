@@ -1,0 +1,31 @@
+{
+    "name": "Risky Dudes Mod Pack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/NickPancakes/RiskyDudesModPack",
+    "description": "A Risk of Rain Modpack for Kame House",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1905",
+        "RiskofThunder-HookGenPatcher-1.2.3",
+        "tristanmcpherson-R2API-4.3.21",
+        "wildbook-TooManyFriends-1.2.1",
+        "XoXFaby-BetterUI-2.5.12",
+        "XoXFaby-BetterGameplay-1.1.2",
+        "MagnusMagnuson-BiggerBazaar-1.13.6",
+        "JohnEdwa-RTAutoSprintEx-2.1.2",
+        "ThinkInvis-Hypercrit-2.0.3",
+        "MagnusMagnuson-ScannerPlusOne-2.7.0",
+        "KingEnderBrine-ScrollableLobbyUI-1.7.5",
+        "KingEnderBrine-InLobbyConfig-1.4.0",
+        "ThinkInvis-TILER2-7.0.1",
+        "ThinkInvis-Yeet-2.2.0",
+        "Faustvii-QoLChests-1.1.8",
+        "Wolfo-WolfoQualityOfLife-2.0.4",
+        "Rune580-Risk_Of_Options-2.4.2",
+        "KingEnderBrine-ProperSave-2.8.3",
+        "dan8991iel-LunarCoinShareOnPickup-4.2.1",
+        "KingEnderBrine-LobbySkinsFix-1.2.0",
+        "KingEnderBrine-RandomCharacterSelection-1.4.1",
+        "DestroyedClone-GoldChestForAll-1.0.11",
+        "MagnusMagnuson-ShrineOfDio-1.6.1"
+    ]
+}
