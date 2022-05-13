@@ -20,6 +20,13 @@ Perform these steps to setup Risk of Rain 2 with the Risky Dudes Modpack.
 
 ## Changelog
 
+### 1.1.2
+
+#### Removed
+
+- DestroyedClone/GoldChestForAll
+- ThinkInvis/Yeet
+
 ### 1.1.1
 
 #### Updated
