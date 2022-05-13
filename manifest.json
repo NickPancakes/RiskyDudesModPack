@@ -1,11 +1,11 @@
 {
     "name": "RiskyDudesModPack",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/NickPancakes/RiskyDudesModPack",
     "description": "A Risk of Rain Modpack for Kame House",
     "dependencies": [
         "bbepis-BepInExPack-5.4.1905",
-        "BetterPing-PingItemDescription-1.0.2",
+        "BetterPing-PingItemDescription-1.0.3",
         "dan8991iel-LunarCoinShareOnPickup-4.2.1",
         "DestroyedClone-GoldChestForAll-1.0.11",
         "Faustvii-QoLChests-1.1.8",
@@ -34,6 +34,6 @@
         "Wolfo-LittleGameplayTweaks-2.0.4",
         "Wolfo-WolfoQualityOfLife-2.0.4",
         "XoXFaby-BetterGameplay-1.1.2",
-        "XoXFaby-BetterUI-2.5.12"
+        "XoXFaby-BetterUI-2.6.0"
     ]
 }

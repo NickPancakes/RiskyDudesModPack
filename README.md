@@ -19,6 +19,13 @@ Perform these steps to setup Risk of Rain 2 with the Risky Dudes Modpack.
 
 ## Changelog
 
+### 1.1.1
+
+#### Updated
+
+- BetterPing/PingItemDescription v1.0.2 -> v1.0.3
+- XoXFaby/BetterUI v2.5.12 -> v2.6.0
+
 ### 1.1.0
 
 #### Added
