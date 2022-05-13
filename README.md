@@ -1,3 +1,4 @@
+<!-- markdownlint-configure-file { "MD024": { "siblings_only": true } } -->
 # Risky Dudes Mod Pack
 
 A Risk of Rain Modpack for Kame House.
